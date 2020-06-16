@@ -1,0 +1,13 @@
+drop *
+keep Jet*
+keep nGenPart
+keep GenPart_pdgId
+keep GenPart_status
+keep GenPart_pt
+keep pu*
+keep *Pdf*
+keep run
+keep luminosityBlock
+keep event
+keep PV*
+drop *raw
