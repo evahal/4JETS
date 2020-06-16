@@ -1,0 +1,11 @@
+universe = vanilla
+Requirements = (Arch == "X86_64")
++RUQueue = "cms"
++AccountingGroup = "group_rutgers.evah"
+Executable = picotree_QCD_HT_2016.sh
+should_transfer_files = NO
+Output = /cms/evah/workspace/CMSSW_10_2_2/src/nanoTREE/condor_logfiles/QCD_HT_2016/picotree_$(cluster)_$(process).stdout
+Error = /cms/evah/workspace/CMSSW_10_2_2/src/nanoTREE/condor_logfiles/QCD_HT_2016/picotree_$(cluster)_$(process).stderr
+Log = /cms/evah/workspace/CMSSW_10_2_2/src/nanoTREE/condor_logfiles/QCD_HT_2016/picotree_$(cluster)_$(process).condor
+Arguments = $(cluster) $(process)
+Queue 8

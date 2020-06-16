@@ -1,0 +1,11 @@
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/15F0E7A2-3157-A141-BEB3-EAC75706A578.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/21D86C56-D119-0C42-8384-B5BACB674B6C.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/296CE9BA-4582-EA43-914A-A9C6AFCB4CD8.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/4F05A921-B38A-A847-BF72-3E98E320E8E6.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/6E5410DC-FD5C-AD4A-A642-16D3DB929CF8.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/BA1B2F8F-65A7-8E4E-9C09-7AF8B97F3203.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/C45AD19E-FCF4-AE45-9D5A-58690C1844A3.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/C9F0F81B-ED39-9D40-A69A-E73F7B33791D.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/E8E6CE2D-F170-9048-8D4B-02FD93D946AE.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/ED2D1D24-4CAF-FE45-8FD1-89DD1453E28A.root
+/cms/se/phedex/store/mc/RunIIFall18NanoAOD/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/102X_upgrade2018_realistic_v12-v1/110000/FB0FEC32-65B6-E142-B61A-88F3FAC53719.root
